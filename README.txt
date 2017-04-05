@@ -13,3 +13,7 @@ when button is clicked.
 The javascript function in increment.js increment a number 
 and print the result to the index.html
 
+The 2 files must be in the same folder
+The result is printed under the button
+
+
